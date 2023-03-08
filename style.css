@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#30356e;
+  }
+#circle{
+    position:absolute;
+    transform:translate(-50%,-50%);
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background-color:#eeb229;
+  }
